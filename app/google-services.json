@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "846986044792",
+    "firebase_url": "https://filestoringsystem.firebaseio.com",
+    "project_id": "filestoringsystem",
+    "storage_bucket": "filestoringsystem.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:846986044792:android:05afc00c4cf6ebfe",
+        "android_client_info": {
+          "package_name": "com.sarthak01.sarthak.filestoringsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "846986044792-594ljg9noc0l5bjfnlidqon4glb320lg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sarthak01.sarthak.filestoringsystem",
+            "certificate_hash": "f5cbd225792c5c8354750c32f29f7b295bd39c75"
+          }
+        },
+        {
+          "client_id": "846986044792-7jsc17pe0s6i37rnjsat74du8d0gm8t3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWGTO9XeLolQ6hb3NfmpAGY8ATtDMgI-U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "846986044792-7jsc17pe0s6i37rnjsat74du8d0gm8t3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
